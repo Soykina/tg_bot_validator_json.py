@@ -1,0 +1,1 @@
+# tg_bot_validator_json.py
